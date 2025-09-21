@@ -1,11 +1,18 @@
 import { faFlag, faUserTie } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useState } from "react";
-const PlayerCard = ({ player, selectPlayerHandler }) => {
+const PlayerCard = ({ player, selectPlayerHandler, balance, setBalance}) => {
   const [selected, setSelected] = useState(true);
   const handleSelectedBtn = (player) => {
-    selectPlayerHandler(player);
+   
+
+    if (player.price <= balance) {
+      setBalance(balance - player.price);
+ selectPlayerHandler(player);
     setSelected(!selected);
+    } else {
+      alert("Not have Balance");
+    }
   };
   return (
     <div

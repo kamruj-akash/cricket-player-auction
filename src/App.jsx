@@ -12,25 +12,29 @@ const fetchPlayerData = async () => {
 const promiseData = fetchPlayerData();
 
 function App() {
+  // balance function
+  const [balance, setBalance] = useState(6000);
+
   // toggle function
   const [toggle, setToggle] = useState(true);
 
   // choose player function
   const [select, setSelect] = useState([]);
   const selectPlayerHandler = (player) => {
-    if (select.includes(player)) {
-      let existedPlayer = select.filter((p) => p != player);
-      setSelect(existedPlayer);
-    } else {
-      const newSelect = [...select, player];
-      const uniqueArray = [...new Set(newSelect)];
-      setSelect(uniqueArray);
-    }
+    // if (select.includes(player)) {
+    //   let existedPlayer = select.filter((p) => p != player);
+    //   setSelect(existedPlayer);
+    // } else {
+    // }
+
+    const newSelect = [...select, player];
+    const uniqueArray = [...new Set(newSelect)];
+    setSelect(uniqueArray);
   };
 
   return (
     <>
-      <Navbar></Navbar>
+      <Navbar balance={balance}></Navbar>
       {/* <Banner></Banner> */}
       <div className="container mx-auto flex justify-between my-5 items-center px-5">
         <p className="font-bold text-2xl text-[#131313]">Available Players</p>
@@ -62,6 +66,8 @@ function App() {
           }
         >
           <AvailablePlayer
+            balance={balance}
+            setBalance={setBalance}
             selectPlayerHandler={selectPlayerHandler}
             promiseData={promiseData}
           ></AvailablePlayer>
