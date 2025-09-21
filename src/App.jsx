@@ -1,9 +1,11 @@
-import "./App.css";
+// import Banner from "./Components/Banner";
+import Navbar from "./Components/Navbar";
 
 function App() {
   return (
     <>
-      <h1 className="text-red-500">Hi</h1>
+      <Navbar></Navbar>
+      {/* <Banner></Banner> */}
     </>
   );
 }
