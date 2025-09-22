@@ -1,15 +1,19 @@
 import { faFlag, faUserTie } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useState } from "react";
-const PlayerCard = ({ player, selectPlayerHandler, balance, setBalance}) => {
+
+import { ToastContainer, toast } from "react-toastify";
+
+const PlayerCard = ({ player, selectPlayerHandler, balance, setBalance }) => {
+  const notify = () => toast("Player Selected!");
+
   const [selected, setSelected] = useState(true);
   const handleSelectedBtn = (player) => {
-   
-
     if (player.price <= balance) {
       setBalance(balance - player.price);
- selectPlayerHandler(player);
-    setSelected(!selected);
+      selectPlayerHandler(player);
+      setSelected(!selected);
+      notify();
     } else {
       alert("Not have Balance");
     }
@@ -19,6 +23,7 @@ const PlayerCard = ({ player, selectPlayerHandler, balance, setBalance}) => {
       key={player.id}
       className="card bg-base-100 shadow-sm p-6 border-1 border-[#13131314]"
     >
+     
       <figure>
         <img
           className="w-full rounded-xl h-[240px]
@@ -56,6 +61,7 @@ const PlayerCard = ({ player, selectPlayerHandler, balance, setBalance}) => {
           </button>
         </div>
       </div>
+      
     </div>
   );
 };
