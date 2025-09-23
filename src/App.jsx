@@ -1,11 +1,12 @@
 import { Suspense, useState } from "react";
 import { ToastContainer } from "react-toastify";
-import Banner from "./Components/Banner";
+// import Banner from "./Components/Banner";
 import Footer from "./Components/Footer";
 import Navbar from "./Components/Navbar";
 import Newsletter from "./Components/Newsletter";
 import AvailablePlayer from "./Components/PlayerComponents/AvailablePlayer";
 import SelectedPlayer from "./Components/PlayerComponents/SelectedPlayer";
+import Spinner from "./Spinner";
 
 const fetchFile = "../public/Data/playerData.json";
 const fetchPlayerData = async () => {
@@ -38,7 +39,7 @@ function App() {
   return (
     <>
       <Navbar balance={balance}></Navbar>
-      <Banner></Banner>
+      {/* <Banner></Banner> */}
       <div className="container mx-auto flex justify-between my-5 items-center px-5 pt-10">
         <p className="font-bold text-2xl text-[#131313]">
           {" "}
@@ -66,13 +67,7 @@ function App() {
         </div>
       </div>
       {toggle ? (
-        <Suspense
-          fallback={
-            <div className="flex items-center justify-center">
-              <span className="loading loading-ring w-[250px] "></span>
-            </div>
-          }
-        >
+        <Suspense fallback={<Spinner></Spinner>}>
           <AvailablePlayer
             balance={balance}
             setBalance={setBalance}

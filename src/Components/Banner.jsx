@@ -2,7 +2,7 @@ import bannerMain from "../assets/banner-main.png";
 import bannerGradient from "../assets/bg-shadow.png";
 const Banner = () => {
   return (
-    <div className="container mx-auto py-[64px] bg-[#131313] rounded-xl flex flex-col items-center justify-center text-center text-white relative overflow-hidden mt-10">
+    <div className="container mx-auto py-[64px] bg-[#131313] rounded-xl flex flex-col items-center justify-center text-center text-white relative overflow-hidden mt-10 font-inter">
       <img
         src={bannerGradient}
         alt="Gradient Overlay"

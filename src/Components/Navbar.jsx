@@ -4,14 +4,14 @@ import logo from "../assets/banner-main.png";
 const Navbar = ({ balance }) => {
   return (
     <>
-      <div className="container mx-auto navbar bg-base-100 ">
+      <div className="container mx-auto navbar bg-base-100 font-ubuntu">
         <div className="navbar-start">
           <a>
             <img className="w-12" src={logo} alt="Logo" />
           </a>
         </div>
         <div className="navbar-center lg:flex">
-          <ul className="menu menu-horizontal px-1">
+          <ul className="menu menu-horizontal px-1 font-semibold">
             <li>
               <a>Home</a>
             </li>

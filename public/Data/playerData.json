@@ -6,7 +6,38 @@
     "role": "All-Rounder",
     "battingStyle": "Right-Hand-Bat",
     "price": 1500,
-    "image": "https://i.ibb.co.com/6JZ6ZmJC/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.webp"
+    "image": "https://i.ibb.co.com/6JZ6ZmJC/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.webp",
+    "birthDate": "5 November 1988",
+    "age": 36,
+    "height": "5 ft 9 in (175 cm)",
+    "bowlingStyle": "Right-arm medium",
+    "stats": {
+      "test": {
+        "matches": 123,
+        "runs": 9230,
+        "avg": 46.85,
+        "wickets": 0
+      },
+      "odi": {
+        "matches": 302,
+        "runs": 14181,
+        "avg": 57.88,
+        "wickets": 5
+      },
+      "t20i": {
+        "matches": 125,
+        "runs": 4188,
+        "avg": 48.69,
+        "wickets": 4
+      }
+    },
+    "achievements": [
+      "Holds the record for scoring the most centuries in ODI cricket with 51 centuries.",
+      "Named the male cricketer of the decade by the International Cricket Council in 2020.",
+      "Won the ICC ODI Player of the Year award four times (2012, 2017, 2018, 2023).",
+      "Scored a record 765 runs in a single edition of the 2023 World Cup, named Player of the Tournament.",
+      "Led India to victory in the 2024 T20 World Cup and 2025 Champions Trophy."
+    ]
   },
   {
     "id": "P1002",
@@ -15,7 +46,38 @@
     "role": "Batsman",
     "battingStyle": "Right-Hand-Bat",
     "price": 1200,
-    "image": "https://i.ibb.co.com/392VSmkm/AP24181627405894-1720424614.webp"
+    "image": "https://i.ibb.co.com/392VSmkm/AP24181627405894-1720424614.webp",
+    "birthDate": "30 April 1987",
+    "age": 38,
+    "height": "5 ft 8 in (173 cm)",
+    "bowlingStyle": "Right-arm off break",
+    "stats": {
+      "test": {
+        "matches": 67,
+        "runs": 4301,
+        "avg": 40.57,
+        "wickets": 2
+      },
+      "odi": {
+        "matches": 273,
+        "runs": 11168,
+        "avg": 48.76,
+        "wickets": 9
+      },
+      "t20i": {
+        "matches": 159,
+        "runs": 4231,
+        "avg": 32.05,
+        "wickets": 1
+      }
+    },
+    "achievements": [
+      "Scored the highest individual score in a One Day International match with 264 against Sri Lanka on 13 November 2014.",
+      "The only player to have scored three double-centuries in ODIs.",
+      "Became the first batsman to score five centuries in a single Cricket World Cup in 2019.",
+      "Holds the record for the most centuries in World Cup history with seven, achieved on 11 October 2023.",
+      "Named ICC Men's ODI Cricketer of the Year in 2019."
+    ]
   },
   {
     "id": "P1003",
@@ -24,7 +86,38 @@
     "role": "All-Rounder",
     "battingStyle": "Left-Hand-Bat",
     "price": 1300,
-    "image": "https://i.ibb.co.com/XfhPkDh3/images.jpg"
+    "image": "https://i.ibb.co.com/XfhPkDh3/images.jpg",
+    "birthDate": "24 March 1987",
+    "age": 38,
+    "height": "5 ft 9 in (175 cm)",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "stats": {
+      "test": {
+        "matches": 71,
+        "runs": 4609,
+        "avg": 37.77,
+        "wickets": 246
+      },
+      "odi": {
+        "matches": 247,
+        "runs": 7570,
+        "avg": 37.29,
+        "wickets": 317
+      },
+      "t20i": {
+        "matches": 129,
+        "runs": 2551,
+        "avg": 23.19,
+        "wickets": 149
+      }
+    },
+    "achievements": [
+      "Fastest player to achieve the double of 5,000 runs and 250 wickets in ODIs.",
+      "Scored 606 runs in the 2019 ICC Cricket World Cup, surpassing Sachin Tendulkar's record for most runs in the group stage.",
+      "First Bangladeshi to score a century and take five wickets in the same Test match.",
+      "All-time highest wicket-taker in ICC Men's T20 World Cup as of 2025.",
+      "Named in the ICC Men's ODI Team of the Year twice (2009, 2021)."
+    ]
   },
   {
     "id": "P1004",
@@ -33,7 +126,38 @@
     "role": "Batsman",
     "battingStyle": "Left-Hand-Bat",
     "price": 800,
-    "image": "https://i.ibb.co.com/FLKB09Tg/tamim-iqbal.jpg"
+    "image": "https://i.ibb.co.com/FLKB09Tg/tamim-iqbal.jpg",
+    "birthDate": "20 March 1989",
+    "age": 36,
+    "height": "5 ft 11 in (1.80 m)",
+    "bowlingStyle": "",
+    "stats": {
+      "test": {
+        "matches": 70,
+        "runs": 5134,
+        "avg": 38.89,
+        "wickets": 0
+      },
+      "odi": {
+        "matches": 243,
+        "runs": 8357,
+        "avg": 36.65,
+        "wickets": 0
+      },
+      "t20i": {
+        "matches": 78,
+        "runs": 1758,
+        "avg": 24.08,
+        "wickets": 0
+      }
+    },
+    "achievements": [
+      "First Bangladeshi to score 10,000, 11,000, 12,000, 13,000, and 14,000 international runs.",
+      "Only Bangladeshi cricketer to score centuries in all three formats of the game.",
+      "Highest run-scorer for Bangladesh in international cricket, including Test, ODIs, and second in T20Is.",
+      "Named one of Wisden Cricketers' Almanack's four Cricketers of the Year and Wisden's Test Player of the Year in 2011.",
+      "Most 100s in international cricket for Bangladesh with 25 centuries across all formats."
+    ]
   },
   {
     "id": "P1005",
@@ -42,7 +166,38 @@
     "role": "Batsman",
     "battingStyle": "Right-Hand-Bat",
     "price": 1400,
-    "image": "https://i.ibb.co.com/GB8GCLp/000-32-ND3-AU.webp"
+    "image": "https://i.ibb.co.com/GB8GCLp/000-32-ND3-AU.webp",
+    "birthDate": "15 October 1994",
+    "age": 30,
+    "height": "5 ft 11 in (180 cm)",
+    "bowlingStyle": "Right-arm off break",
+    "stats": {
+      "test": {
+        "matches": 59,
+        "runs": 4235,
+        "avg": 42.77,
+        "wickets": 2
+      },
+      "odi": {
+        "matches": 134,
+        "runs": 6291,
+        "avg": 54.23,
+        "wickets": 0
+      },
+      "t20i": {
+        "matches": 128,
+        "runs": 4223,
+        "avg": 39.83,
+        "wickets": 0
+      }
+    },
+    "achievements": [
+      "Fastest Asian batter to reach 11,000 runs in international cricket.",
+      "Holds the record for the most runs in the first 25 innings of his ODI career (1,306 runs).",
+      "Fastest player to score 5,000 runs in ODIs (97 innings).",
+      "Scored the most runs for Pakistan in a single World Cup (474 runs in 2019).",
+      "First Pakistani captain to beat India in a World Cup match."
+    ]
   },
   {
     "id": "P1006",
@@ -51,7 +206,38 @@
     "role": "Bowler",
     "battingStyle": "Left-Hand-Bat",
     "price": 1000,
-    "image": "https://i.ibb.co.com/1JbdVLJg/CRICKET-ASIA-2025-T20-IND-PAK-49-1758079692838-1758079715842.jpg"
+    "image": "https://i.ibb.co.com/1JbdVLJg/CRICKET-ASIA-2025-T20-IND-PAK-49-1758079692838-1758079715842.jpg",
+    "birthDate": "6 April 2000",
+    "age": 25,
+    "height": "6 ft 6 in (198 cm)",
+    "bowlingStyle": "Left-arm fast",
+    "stats": {
+      "test": {
+        "matches": 31,
+        "runs": 249,
+        "avg": 8.03,
+        "wickets": 116
+      },
+      "odi": {
+        "matches": 60,
+        "runs": 236,
+        "avg": 14.75,
+        "wickets": 124
+      },
+      "t20i": {
+        "matches": 75,
+        "runs": 182,
+        "avg": 12.13,
+        "wickets": 100
+      }
+    },
+    "achievements": [
+      "Won the ICC Men's Cricketer of the Year in 2021 and became the first Pakistani to receive the Sir Garfield Sobers Trophy.",
+      "Youngest bowler to take a five-wicket haul in a World Cup match, with figures of 6/35 against Bangladesh in 2019.",
+      "Fastest Pakistani bowler to reach 100 wickets in ODIs, achieving the feat in 51 matches.",
+      "Led Lahore Qalandars to three Pakistan Super League titles in 2022, 2023, and 2025.",
+      "First Pakistani to reach 100 wickets in all three formats of international cricket and the youngest to do so."
+    ]
   },
   {
     "id": "P1007",
@@ -60,7 +246,38 @@
     "role": "Batsman",
     "battingStyle": "Left-Hand-Bat",
     "price": 1100,
-    "image": "https://i.ibb.co.com/HTP8hHTB/skysports-david-warner-australia-5562949.jpg"
+    "image": "https://i.ibb.co.com/HTP8hHTB/skysports-david-warner-australia-5562949.jpg",
+    "birthDate": "27 October 1986",
+    "age": 38,
+    "height": "170 cm",
+    "bowlingStyle": "Right arm leg break",
+    "stats": {
+      "test": {
+        "matches": 112,
+        "runs": 8786,
+        "avg": 44.59,
+        "wickets": 4
+      },
+      "odi": {
+        "matches": 161,
+        "runs": 6932,
+        "avg": 45.3,
+        "wickets": 0
+      },
+      "t20i": {
+        "matches": 110,
+        "runs": 3277,
+        "avg": 33.43,
+        "wickets": 0
+      }
+    },
+    "achievements": [
+      "First Australian cricketer in 132 years to be selected for the national team without first-class cricket experience.",
+      "Holds the record for the most international centuries as an opening batsman across all formats.",
+      "Scored a triple century (335 not out) against Pakistan in 2019, the second-highest individual score for an Australian Test batsman.",
+      "Named Player of the Tournament in the 2021 T20 World Cup, scoring 289 runs.",
+      "Became the first batsman to score two 150+ scores in a Cricket World Cup during the 2019 tournament."
+    ]
   },
   {
     "id": "P1008",
@@ -69,7 +286,38 @@
     "role": "Bowler",
     "battingStyle": "Right-Hand-Bat",
     "price": 950,
-    "image": "https://i.ibb.co.com/Dfsxv0n5/13e071c0-e3a5-11ef-8450-ff58a15d40df.jpg"
+    "image": "https://i.ibb.co.com/Dfsxv0n5/13e071c0-e3a5-11ef-8450-ff58a15d40df.jpg",
+    "birthDate": "8 May 1993",
+    "age": 32,
+    "height": "6 ft 4 in (192 cm)",
+    "bowlingStyle": "Right-arm fast",
+    "stats": {
+      "test": {
+        "matches": 71,
+        "runs": 1548,
+        "avg": 16.82,
+        "wickets": 309
+      },
+      "odi": {
+        "matches": 90,
+        "runs": 537,
+        "avg": 14.51,
+        "wickets": 143
+      },
+      "t20i": {
+        "matches": 57,
+        "runs": 158,
+        "avg": 10.53,
+        "wickets": 66
+      }
+    },
+    "achievements": [
+      "Youngest Australian Test cricketer since Ian Craig in 1953, debuting at 18 years and 193 days.",
+      "Led Australia to win the 2023 ICC Cricket World Cup, defeating India in the final.",
+      "Captained Australia to victory in the 2021–23 ICC World Test Championship.",
+      "Became the first fast bowler to be appointed full-time Australian Test captain in November 2021.",
+      "Took two hat-tricks across consecutive international matches during the 2024 ICC Men's T20 World Cup."
+    ]
   },
   {
     "id": "P1009",
@@ -78,7 +326,38 @@
     "role": "Batsman",
     "battingStyle": "Right-Hand-Bat",
     "price": 1150,
-    "image": "https://i.ibb.co.com/RTnP58n1/2025-07-25-T162623-Z-866326960-UP1-EL7-P19-NXBZ-RTRMADP-3-CRICKET-TEST-ENG-IND-1753470930.webp"
+    "image": "https://i.ibb.co.com/RTnP58n1/2025-07-25-T162623-Z-866326960-UP1-EL7-P19-NXBZ-RTRMADP-3-CRICKET-TEST-ENG-IND-1753470930.webp",
+    "birthDate": "30 December 1990",
+    "age": 34,
+    "height": "6 ft 0 in (1.83 m)",
+    "bowlingStyle": "Right-arm off break",
+    "stats": {
+      "test": {
+        "matches": 158,
+        "runs": 13543,
+        "avg": 51.29,
+        "wickets": 73
+      },
+      "odi": {
+        "matches": 183,
+        "runs": 7301,
+        "avg": 49.33,
+        "wickets": 28
+      },
+      "t20i": {
+        "matches": 0,
+        "runs": 0,
+        "avg": 0,
+        "wickets": 0
+      }
+    },
+    "achievements": [
+      "Second highest run-scorer of all time in Test cricket.",
+      "Holds the record for most Test (39) and ODI (18) centuries for England.",
+      "Became the second batsman for England to score 10,000 Test runs in June 2022.",
+      "Part of the England team that won the 2019 Cricket World Cup, topping the scores for England.",
+      "Holds the world record for the highest fourth-wicket stand in Tests (454) with Harry Brook."
+    ]
   },
   {
     "id": "P1010",
@@ -87,7 +366,38 @@
     "role": "All-Rounder",
     "battingStyle": "Left-Hand-Bat",
     "price": 1250,
-    "image": "https://i.ibb.co.com/ccLjYCZy/bc3942b97709635c01bb88d261840ab2-Y29ud-GVud-HNl-YXJja-GFwa-Swx-Nz-Qw-NTY0-MDI3-2-78466672.jpg"
+    "image": "https://i.ibb.co.com/ccLjYCZy/bc3942b97709635c01bb88d261840ab2-Y29ud-GVud-HNl-YXJja-GFwa-Swx-Nz-Qw-NTY0-MDI3-2-78466672.jpg",
+    "birthDate": "4 June 1991",
+    "age": 34,
+    "height": "6 ft (183 cm)",
+    "bowlingStyle": "Right-arm fast-medium",
+    "stats": {
+      "test": {
+        "matches": 115,
+        "runs": 7032,
+        "avg": 35.69,
+        "wickets": 230
+      },
+      "odi": {
+        "matches": 114,
+        "runs": 3463,
+        "avg": 41.22,
+        "wickets": 74
+      },
+      "t20i": {
+        "matches": 43,
+        "runs": 585,
+        "avg": 21.66,
+        "wickets": 26
+      }
+    },
+    "achievements": [
+      "Man of the Match in the final of the 2019 Cricket World Cup.",
+      "Second-fastest Test double hundred in terms of balls faced.",
+      "Highest number of sixes in a Test career.",
+      "Most runs in a Test innings at the sixth position – 258 runs.",
+      "Highest Test partnership for the sixth wicket with Jonny Bairstow, achieving 399 runs against South Africa."
+    ]
   },
   {
     "id": "P1011",
@@ -96,7 +406,38 @@
     "role": "Batsman",
     "battingStyle": "Right-Hand-Bat",
     "price": 1180,
-    "image": "https://i.ibb.co.com/BHm6w2h0/kane-Williamson-780x470.webp"
+    "image": "https://i.ibb.co.com/BHm6w2h0/kane-Williamson-780x470.webp",
+    "birthDate": "8 August 1990",
+    "age": 35,
+    "height": "5 ft 8 in (172 cm)",
+    "bowlingStyle": "Right-arm off-break",
+    "stats": {
+      "test": {
+        "matches": 105,
+        "runs": 9276,
+        "avg": 54.88,
+        "wickets": 30
+      },
+      "odi": {
+        "matches": 173,
+        "runs": 7235,
+        "avg": 49.21,
+        "wickets": 37
+      },
+      "t20i": {
+        "matches": 93,
+        "runs": 2575,
+        "avg": 33.44,
+        "wickets": 6
+      }
+    },
+    "achievements": [
+      "Became New Zealand's all-time leading run-scorer in Test cricket on 27 February 2023.",
+      "Captained New Zealand to victory in the 2021 ICC World Test Championship final.",
+      "Led New Zealand to the finals of the 2019 Cricket World Cup and 2021 T20 World Cup.",
+      "Scored 33 Test centuries and 15 ODI centuries as of March 2025.",
+      "Awarded Player of the Tournament in the 2019 Cricket World Cup, scoring 578 runs in 10 matches."
+    ]
   },
   {
     "id": "P1012",
@@ -105,6 +446,37 @@
     "role": "Bowler",
     "battingStyle": "Right-Hand-Bat",
     "price": 900,
-    "image": "https://i.ibb.co.com/RTJQCvfV/l77420231014004651.jpg"
+    "image": "https://i.ibb.co.com/RTJQCvfV/l77420231014004651.jpg",
+    "birthDate": "22 July 1989",
+    "age": 36,
+    "height": "5 ft 11 in (1.80 m)",
+    "bowlingStyle": "Left-arm fast-medium",
+    "stats": {
+      "test": {
+        "matches": 78,
+        "runs": 759,
+        "avg": 15.81,
+        "wickets": 317
+      },
+      "odi": {
+        "matches": 114,
+        "runs": 216,
+        "avg": 9.0,
+        "wickets": 211
+      },
+      "t20i": {
+        "matches": 61,
+        "runs": 58,
+        "avg": 8.28,
+        "wickets": 83
+      }
+    },
+    "achievements": [
+      "Joint leading wicket-taker at the 2015 Cricket World Cup.",
+      "Became the third New Zealand bowler to take a hat-trick in ODIs in November 2018.",
+      "First New Zealand bowler to take a hat-trick in the Cricket World Cup in June 2019.",
+      "Took his 300th wicket in Test cricket in January 2022.",
+      "Named in the 'Team of the Tournament' for the 2015 World Cup by the ICC."
+    ]
   }
 ]
